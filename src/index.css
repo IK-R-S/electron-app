@@ -1,0 +1,14 @@
+body {
+    background: rgb(119, 195, 233);
+    justify-content: center;
+    text-align: center;
+    font: 'Varela Round', sans-serif 15pt Arial;
+  }
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(33, 30, 49)
+}
+img {
+    width: 300px;
+    height: 300px;
+}
